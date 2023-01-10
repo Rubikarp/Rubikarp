@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rubikarp
 - 👀 I’m interested in Technical Art and Origami
 - 🌱 I’m currently learning C# / HLSL / C++
-- 💞️ I’m looking to collaborate on vide game project or artistic project
-- 📫 How to reach me by discord at Karp#0168
+- 💞️ I’m looking to collaborate on video game project or artistic project
+- 📫 You can reach me by discord at Karp#0168
