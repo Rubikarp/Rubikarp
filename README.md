@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rubikarp
-- 👀 I’m interested in Technical Art and Origami
-- 🌱 I’m currently learning C# / HLSL / C++
+- 👀 I’m interested in Technical Art and Game Programming
+- 🌱 I’m currently learning C# / C++ / HLSL
